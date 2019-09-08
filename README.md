@@ -2,13 +2,13 @@
 
 Consists of:
 
-1. One plane
+1. One `plane`
 
-2. One camera facing that plane
+2. One `camera` facing that plane
 
-4. One directional light source
+4. One directional `light` source
 
-3. Several controls for plane material
+3. Several `controls` for plane material
    1. Color (RGBA)
    2. Metallic
    3. Specular
